@@ -10,7 +10,7 @@ a=a-1;
 end
 c=[8,8,9,9,9];
 c[4]=3+c[1];
-c.remove(7);
+c.remove(2);
 c.add(3);
 c.add(3,2);
 
